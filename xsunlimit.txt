@@ -1,0 +1,2 @@
+hostname=commonconfig.oss-accelerate.aliyuncs.com,o-oo.net.cn
+^https://commonconfig.oss-accelerate.aliyuncs.com/xsreader/xsreader url script-echo-response https://raw.githubusercontent.com/FengYuu/xsunlimit/main/unlimit.js
